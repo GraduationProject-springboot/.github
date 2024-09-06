@@ -5,7 +5,7 @@
 
 # [搜索更多项目](http://chenqi1990.site)
 
-![pic](/img/wx.jpg)
+![pic](/img/wx.png)
 
 
 
