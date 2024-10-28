@@ -3,9 +3,9 @@
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
 ### 接网站建设、小程序
 
-# [搜索更多项目](http://chenqi1990.site)
-
-![pic](/img/wx.png)
+# [项目清单 包安装运行](http://chenqi1990.site) 快速搜索地址 http://chenqi1990.site
+## 代码部署 讲解 程序定制 扫码联系 ▼ ▼ ▼
+![picture](https://raw.githubusercontent.com/GraduationProject-springboot/.github/main/img/wx.png)
 
 
 
